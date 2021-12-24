@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Занятие 13. Наследование", "Занятие 13. Наследование\Занятие 13. Наследование.csproj", "{B2D14E75-CC2C-4E11-81C7-2324ACE5B009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D14E75-CC2C-4E11-81C7-2324ACE5B009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D14E75-CC2C-4E11-81C7-2324ACE5B009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D14E75-CC2C-4E11-81C7-2324ACE5B009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D14E75-CC2C-4E11-81C7-2324ACE5B009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED3972B7-0211-4319-AAD9-1025979ED629}
+	EndGlobalSection
+EndGlobal
